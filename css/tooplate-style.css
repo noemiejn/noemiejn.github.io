@@ -18,7 +18,7 @@ COLOR CODES
 
 body {
   background-color: #eee;
-  color: #fff19f;
+  color: #6c6c6c;
   font-family: "Open Sans", Helvetica, Arial, sans-serif;
   font-size: 18px;
   overflow-x: hidden;
@@ -53,7 +53,7 @@ body {
 
 .tm-section-3 {
   height: 790px;
-  background-image: url(../img/IMG_0069.jpeg);
+  background-image: url(../img/cute_home.jpg);
   background-size: cover;
   -webkit-clip-path: polygon(0px 0px, 100% 14%, 100% 86%, 0px 100%);
   clip-path: polygon(0px 0px, 100% 14%, 100% 86%, 0px 100%);
